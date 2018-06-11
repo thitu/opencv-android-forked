@@ -1,3 +1,8 @@
+### Forking Note:
+Due to how Githiub computes LFS bandwidth, the current version of this repository is located [here](https://github.com/thitu/opencv-android).
+
+---
+
 # opencv-android
 
 OpenCV4Android, packaged as a .aar for direct use without depending on the stupid OpenCV Manager app.
